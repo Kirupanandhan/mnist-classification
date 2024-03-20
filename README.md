@@ -157,8 +157,8 @@ print(x_single_prediction)
 
 ![image](https://github.com/Kirupanandhan/mnist-classification/assets/94386222/81190545-0362-45f7-a43a-cb64b025d486)
 
+![image](https://github.com/Kirupanandhan/mnist-classification/assets/94386222/1180eca0-e902-40ca-87f2-e29cca58906b)
 
-![image](https://github.com/Kirupanandhan/mnist-classification/assets/94386222/fbad4848-65a4-4f03-bfc7-83d19230ae68)
 
 
 
